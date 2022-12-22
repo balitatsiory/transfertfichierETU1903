@@ -1,0 +1,10 @@
+
+CALCULER TTC AN I ARTICLE ,AVEC REMI
+ajouter article dans le panier iza fiiry
+ENlever quantite panier
+
+calcul total panier TTC= recu 
+
+liste client iza no meilleur client a patir tableau clientxddcu 
+
+liste client iza no meilleur client a patir tableau clientxdd
